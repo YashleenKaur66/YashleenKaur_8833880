@@ -1,1 +1,7 @@
-# YashleenKaur_8833880
+
+
+Your name: Yashleen Kaur
+
+Project Title: Lab 3
+
+Student ID: 8833880 
